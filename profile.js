@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Diana XY Murray",
+  name: "Diana Murray",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I great enjoy working with everyone in the DREAM-High program. My research passion is to integrate protein structure, lipidomics, proteomics, and genomics-based networks to study cellular signaling pathways dysregulated in cancer. I hope to build modules associated with these projects for DREAM-High.",
 
   /*
   Optional photo:
@@ -25,9 +25,9 @@ const studentProfile = {
 
   If you do not want to use a photo, leave this as an empty string.
   */
-  photo: "",
+  photo: "profile.jpg",
 
-  contact: "Contact information available upon request.",
+  contact: "Email: dm527@cumc.columbia.edu.",
 
   /*
   RPubs activities:
@@ -38,12 +38,12 @@ const studentProfile = {
   */
   rpubs: [
     {
-      title: "Introduction to R",
-      url: "https://rpubs.com/"
+      title: "Finding Patterns with Heatmaps",
+      url: "https://rpubs.com/DREAM-High/1446073"
     },
     {
-      title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      title: "DREAM-High Breast Cancer Patient Data",
+      url: "https://rpubs.com/DREAM-High/1332502"
     }
   ],
 
@@ -65,7 +65,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/dyoungb612fox"
     }
   ]
 };
